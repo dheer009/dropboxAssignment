@@ -56,7 +56,7 @@ Copy code
 Access H2 Console:
 
 URL: http://localhost:8080/h2-console
-JDBC URL: jdbc:h2:mem:testdb
+JDBC URL :  jdbc:h2:file:C:/Users/Dheer Varyani/testdb
 User Name: sa
 Password: password
 Testing APIs with Postman
@@ -90,4 +90,3 @@ The H2 in-memory database will reset on application restart, so data will not pe
 License
 
 
-jdbcUrl :  jdbc:h2:file:C:/Users/Dheer Varyani/testdb
